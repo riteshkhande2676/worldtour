@@ -1,0 +1,83 @@
+List of most important & commonly asked c programs in interviews...
+C program to find factorial of a number.
+Program to swap two bits.
+Program to swap two words/nibbles of a byte.
+C program to swap two numbers without using third variable.
+Program to check whether number is Palindrome or not
+Program to check whether number is Perfect square or not
+Program to print "Hello World" without using semicolon.
+Program to check whether number is Prime or not.
+Program to check whether number is palindrome or not.
+C program to check whether a number if Armstrong or not.
+C program to check whether a number if Even or Odd.
+C program to print all leap years from 1 to N.
+C program to convert temperature from Celsius to Fahrenheit and vice versa.
+C program to convert number from Decimal to Binary.
+C program to convert number from Binary to Decimal.
+Program to compare two strings without using strcmp().
+Program to copy string without sing strcpy().
+Program to find an element from one dimensional array.
+Program to delete an element from one dimensional array.
+Program to swap adjacent elements of one dimension array.
+Program to transpose a matrix.
+Program to multiply two matrices.
+Program to print source code as program output.
+
+List of other C programming advanced programs
+Stringizing Operator in C - Program to print variable name in C.
+Function Pointer example program in C programming.
+C program to get current System Date and Time in Linux.
+C program to implement gotoxy(),clrscr(),getch(),getche() for GCC, Linux.
+C program to find the size of a file in Linux.
+C program to get Process Id and Parent Process Id in Linux.
+fork() function explanation and examples in Linux C.
+C program to Get Computer System IP Address in Linux.
+C program to Set Computer System IP Address in Linux.
+C program to design flying characters Screen Saver.
+C program to design a TIC TAC TOE game.
+Age Calculator (C program to calculate age).
+C program to design love calculator.
+C program to guess a random number.
+C program to check given string is a valid IPv4 address or not.
+C program to convert String into Hexadecimal.
+C program to demonstrate example of Variable Arguments.
+C program to store time in an integer variable.
+C program to store date in an integer variable.
+C program to remove consecutive repeated characters from string.
+C program to create your own header file.
+EMI Calculator (C program to calculate EMI).
+C program to validate date (Check date is valid or not).
+C program to format/extract ip address octets.
+C program to implement substring function.
+C program to design a digital clock.
+C program to convert hexadecimal Byte to integer.
+C program to extract bytes from an integer (Hexadecimal) value.
+C program to print character without using format specifiers.
+C program to find Binary Addition and Binary Subtraction.
+C program to print weekday of given date.
+C program to calculate compound interest.
+
+
+TOP Interview Coding Problems/Challenges
+
+Run-length encoding (find/print frequency of letters in a string)
+Sort an array of 0's, 1's and 2's in linear time complexity
+Checking Anagrams (check whether two string is anagrams or not)
+Relative sorting algorithm
+Finding subarray with given sum
+Find the level in a binary tree with given sum K
+Check whether a Binary Tree is BST (Binary Search Tree) or not
+1[0]1 Pattern Count
+Capitalize first and last letter of each word in a line
+Print vertical sum of a binary tree
+Print Boundary Sum of a Binary Tree
+Reverse a single linked list
+Greedy Strategy to solve major algorithm problems
+Job sequencing problem
+Root to leaf Path Sum
+Exit Point in a Matrix
+Find length of loop in a linked list
+Toppers of Class
+Print All Nodes that don't have Sibling
+Transform to Sum Tree
+Shortest Source to Destination Path
